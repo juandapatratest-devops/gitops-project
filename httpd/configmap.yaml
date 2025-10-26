@@ -6,6 +6,6 @@ data:
   index.html: |
     <html>
       <body>
-        <h1>Ini tampilan dari HTTPD dan nama saya Juanda Patra</h1>
+        <h1>Ini tampilan dari HTTPD dan nama saya Juanda Patra 1</h1>
       </body>
     </html>
